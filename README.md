@@ -1,4 +1,4 @@
-# Kolaccount
+# Kolacunt
 
 
 Accounting is very important, it is the first step to financial management, also is the most basic step.Accounting is divided into two main parts: income and expenditure.Spending, can be divided into living expenses, such as transportation, the rent and investment spending.Another is income, for many people, wage income is the main, another is the financial income.
